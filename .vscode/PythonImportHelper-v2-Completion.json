@@ -1,0 +1,1361 @@
+[
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "postgresql",
+        "importPath": "sqlalchemy.dialects",
+        "description": "sqlalchemy.dialects",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects",
+        "documentation": {}
+    },
+    {
+        "label": "postgresql",
+        "importPath": "sqlalchemy.dialects",
+        "description": "sqlalchemy.dialects",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "bentley_ottmann_api.conf",
+        "description": "bentley_ottmann_api.conf",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "bentley_ottmann_api.conf",
+        "description": "bentley_ottmann_api.conf",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.conf",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "bentley_ottmann_api.models",
+        "description": "bentley_ottmann_api.models",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Lines",
+        "importPath": "bentley_ottmann_api.models",
+        "description": "bentley_ottmann_api.models",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Boards",
+        "importPath": "bentley_ottmann_api.models",
+        "description": "bentley_ottmann_api.models",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.models",
+        "documentation": {}
+    },
+    {
+        "label": "BentleyOttmannPoints",
+        "importPath": "bentley_ottmann_api.models",
+        "description": "bentley_ottmann_api.models",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Boards",
+        "importPath": "bentley_ottmann_api.models",
+        "description": "bentley_ottmann_api.models",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncGenerator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "AVLTree",
+        "importPath": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "description": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "documentation": {}
+    },
+    {
+        "label": "PriorityQueue",
+        "importPath": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "description": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "documentation": {}
+    },
+    {
+        "label": "Point",
+        "importPath": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "description": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "documentation": {}
+    },
+    {
+        "label": "Segment",
+        "importPath": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "description": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "documentation": {}
+    },
+    {
+        "label": "EventType",
+        "importPath": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "description": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "documentation": {}
+    },
+    {
+        "label": "Event",
+        "importPath": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "description": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "documentation": {}
+    },
+    {
+        "label": "bisect_left",
+        "importPath": "bisect",
+        "description": "bisect",
+        "isExtraImport": true,
+        "detail": "bisect",
+        "documentation": {}
+    },
+    {
+        "label": "bisect_right",
+        "importPath": "bisect",
+        "description": "bisect",
+        "isExtraImport": true,
+        "detail": "bisect",
+        "documentation": {}
+    },
+    {
+        "label": "heappop",
+        "importPath": "heapq",
+        "description": "heapq",
+        "isExtraImport": true,
+        "detail": "heapq",
+        "documentation": {}
+    },
+    {
+        "label": "heappush",
+        "importPath": "heapq",
+        "description": "heapq",
+        "isExtraImport": true,
+        "detail": "heapq",
+        "documentation": {}
+    },
+    {
+        "label": "heapify",
+        "importPath": "heapq",
+        "description": "heapq",
+        "isExtraImport": true,
+        "detail": "heapq",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "PostgresDsn",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "PositiveInt",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "chain",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "randint",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingResponse",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingResponse",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
+        "documentation": {}
+    },
+    {
+        "label": "find_intersections",
+        "importPath": "bentley_ottmann_api.bentley_ottmann",
+        "description": "bentley_ottmann_api.bentley_ottmann",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.bentley_ottmann",
+        "documentation": {}
+    },
+    {
+        "label": "find_intersections",
+        "importPath": "bentley_ottmann_api.bentley_ottmann",
+        "description": "bentley_ottmann_api.bentley_ottmann",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.bentley_ottmann",
+        "documentation": {}
+    },
+    {
+        "label": "RandomBoard",
+        "importPath": "bentley_ottmann_api.schemas",
+        "description": "bentley_ottmann_api.schemas",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "LineOut",
+        "importPath": "bentley_ottmann_api.schemas",
+        "description": "bentley_ottmann_api.schemas",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "LineIn",
+        "importPath": "bentley_ottmann_api.schemas",
+        "description": "bentley_ottmann_api.schemas",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "LineOut",
+        "importPath": "bentley_ottmann_api.schemas",
+        "description": "bentley_ottmann_api.schemas",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BoardOut",
+        "importPath": "bentley_ottmann_api.schemas",
+        "description": "bentley_ottmann_api.schemas",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BoardIn",
+        "importPath": "bentley_ottmann_api.schemas",
+        "description": "bentley_ottmann_api.schemas",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BoardOutAll",
+        "importPath": "bentley_ottmann_api.schemas",
+        "description": "bentley_ottmann_api.schemas",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "RandomBoard",
+        "importPath": "bentley_ottmann_api.schemas",
+        "description": "bentley_ottmann_api.schemas",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Point",
+        "importPath": "bentley_ottmann_api.schemas",
+        "description": "bentley_ottmann_api.schemas",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "get_boards_by_name",
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "create_board",
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_boards",
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "create_line_and_add_to_bord",
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "create_random_lines",
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "delete_lines",
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "delete_boards",
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "draw_lines",
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_draw_response",
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "find_intersection_for_board",
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "draw_lines_and_intersection_points",
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "bentley_ottmann_api.dependencies",
+        "description": "bentley_ottmann_api.dependencies",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "MainSession",
+        "importPath": "bentley_ottmann_api.dependencies",
+        "description": "bentley_ottmann_api.dependencies",
+        "isExtraImport": true,
+        "detail": "bentley_ottmann_api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "as_declarative",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.5d7ad6e4c57a_added_table",
+        "description": "alembic.versions.5d7ad6e4c57a_added_table",
+        "peekOfCode": "def upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('boards',\n    sa.Column('id', sa.Integer(), autoincrement=True, nullable=False),\n    sa.Column('name', sa.String(), nullable=True),\n    sa.PrimaryKeyConstraint('id'),\n    sa.UniqueConstraint('name')\n    )\n    op.create_index(op.f('ix_boards_id'), 'boards', ['id'], unique=False)\n    op.create_table('lines',",
+        "detail": "alembic.versions.5d7ad6e4c57a_added_table",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.5d7ad6e4c57a_added_table",
+        "description": "alembic.versions.5d7ad6e4c57a_added_table",
+        "peekOfCode": "def downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('board_line_association')\n    op.drop_index(op.f('ix_bentlet_ottmann_points_id'), table_name='bentlet_ottmann_points')\n    op.drop_table('bentlet_ottmann_points')\n    op.drop_index(op.f('ix_lines_id'), table_name='lines')\n    op.drop_table('lines')\n    op.drop_index(op.f('ix_boards_id'), table_name='boards')\n    op.drop_table('boards')\n    # ### end Alembic commands ###",
+        "detail": "alembic.versions.5d7ad6e4c57a_added_table",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "alembic.versions.5d7ad6e4c57a_added_table",
+        "description": "alembic.versions.5d7ad6e4c57a_added_table",
+        "peekOfCode": "revision = '5d7ad6e4c57a'\ndown_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('boards',\n    sa.Column('id', sa.Integer(), autoincrement=True, nullable=False),\n    sa.Column('name', sa.String(), nullable=True),\n    sa.PrimaryKeyConstraint('id'),",
+        "detail": "alembic.versions.5d7ad6e4c57a_added_table",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "alembic.versions.5d7ad6e4c57a_added_table",
+        "description": "alembic.versions.5d7ad6e4c57a_added_table",
+        "peekOfCode": "down_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('boards',\n    sa.Column('id', sa.Integer(), autoincrement=True, nullable=False),\n    sa.Column('name', sa.String(), nullable=True),\n    sa.PrimaryKeyConstraint('id'),\n    sa.UniqueConstraint('name')",
+        "detail": "alembic.versions.5d7ad6e4c57a_added_table",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "alembic.versions.5d7ad6e4c57a_added_table",
+        "description": "alembic.versions.5d7ad6e4c57a_added_table",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('boards',\n    sa.Column('id', sa.Integer(), autoincrement=True, nullable=False),\n    sa.Column('name', sa.String(), nullable=True),\n    sa.PrimaryKeyConstraint('id'),\n    sa.UniqueConstraint('name')\n    )",
+        "detail": "alembic.versions.5d7ad6e4c57a_added_table",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "alembic.versions.5d7ad6e4c57a_added_table",
+        "description": "alembic.versions.5d7ad6e4c57a_added_table",
+        "peekOfCode": "depends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('boards',\n    sa.Column('id', sa.Integer(), autoincrement=True, nullable=False),\n    sa.Column('name', sa.String(), nullable=True),\n    sa.PrimaryKeyConstraint('id'),\n    sa.UniqueConstraint('name')\n    )\n    op.create_index(op.f('ix_boards_id'), 'boards', ['id'], unique=False)",
+        "detail": "alembic.versions.5d7ad6e4c57a_added_table",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "def run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = settings.database_uri",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "def run_migrations_online():\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    configuration = config.get_section(config.config_ini_section)\n    configuration[\"sqlalchemy.url\"] = settings.database_uri\n    connectable = engine_from_config(\n        configuration, prefix=\"sqlalchemy.\", poolclass=pool.NullPool,\n    )",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nfileConfig(config.config_file_name)\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata\ntarget_metadata = Model.metadata\n# other values from the config, defined by the needs of env.py,",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "target_metadata = Model.metadata\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "BentleyOttmann",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.bentley_ottmann.algorithm",
+        "description": "bentley_ottmann_api.bentley_ottmann.algorithm",
+        "peekOfCode": "class BentleyOttmann:\n    \"\"\"\n    Bentley Ottman algorithm.\n    \"\"\"\n    def __init__(self, segments: list[Segment]) -> None:\n        self.priority_queue = self.get_priority_queue_with_data(segments=segments)\n        self.tree_set = AVLTree()\n        self.output = set()\n    def get_priority_queue_with_data(self, segments: list[Segment]) -> PriorityQueue:\n        \"\"\"",
+        "detail": "bentley_ottmann_api.bentley_ottmann.algorithm",
+        "documentation": {}
+    },
+    {
+        "label": "PriorityQueue",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "description": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "peekOfCode": "class PriorityQueue:\n    \"\"\"\n    Priority Queue based on heapq.\n    \"\"\"\n    def __init__(self, initial_data: Optional[list] = None) -> None:\n        self.heapq = []\n        if initial_data:\n            self.heapq = initial_data\n            heapify(self.heapq)\n    def remove_by_object_id(self, data: Any) -> None:",
+        "detail": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "description": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "peekOfCode": "class Node:\n    \"\"\"\n    Node class for AVL Tree.\n    \"\"\"\n    def __init__(self, key: str) -> None:\n        self.key = key\n        self.parent: Optional[Node] = None\n        self.left_child: Optional[Node] = None\n        self.right_child: Optional[Node] = None\n        self.height = 0",
+        "detail": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTree",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "description": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "peekOfCode": "class BaseTree:\n    def __init__(self, initial_data: Optional[Iterable] = None) -> None:\n        self.root_node: Optional[Node] = None\n        self.nodes = 0\n        self.rebalances = 0\n        if initial_data:\n            for data in initial_data:\n                self.insert(key=data)\n    def insert(self, key: Any) -> Any:\n        raise NotImplementedError",
+        "detail": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "documentation": {}
+    },
+    {
+        "label": "AVLRebalanceMixin",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "description": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "peekOfCode": "class AVLRebalanceMixin:\n    \"\"\"\n    AVL Rebalance Mixin\n    \"\"\"\n    def _set_new_child(\n        self,\n        initial_parent: Optional[Node],\n        initial_node: Optional[Node],\n        new_node: Optional[Node],\n    ) -> None:",
+        "detail": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "documentation": {}
+    },
+    {
+        "label": "AVLTree",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "description": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "peekOfCode": "class AVLTree(AVLRebalanceMixin, BaseTree):\n    \"\"\"\n    AVL Tree class.\n    \"\"\"\n    @staticmethod\n    def recompute_heights(node: Node) -> None:\n        \"\"\"\n        Method recomputes heights.\n        Args:\n            node: started node",
+        "detail": "bentley_ottmann_api.bentley_ottmann.data_structures",
+        "documentation": {}
+    },
+    {
+        "label": "Point",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "description": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "peekOfCode": "class Point:\n    \"\"\"\n    Point class.\n    \"\"\"\n    def __init__(\n        self, coordinate_x: Union[int, float], coordinate_y: Union[int, float]\n    ) -> None:\n        self.coordinate_x = coordinate_x\n        self.coordinate_y = coordinate_y\n    def get_coordinates(self) -> tuple[Union[int, float], Union[int, float]]:",
+        "detail": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "documentation": {}
+    },
+    {
+        "label": "Segment",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "description": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "peekOfCode": "class Segment:\n    \"\"\"\n    Segment class.\n    \"\"\"\n    def __init__(self, point_x: Point, point_y: Point) -> None:\n        self.point_x, self.point_y = point_x, point_y\n        self.first_point, self.second_point = self.get_first_and_second_point(\n            point_x=point_x, point_y=point_y\n        )\n        self.value = 0",
+        "detail": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "documentation": {}
+    },
+    {
+        "label": "EventType",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "description": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "peekOfCode": "class EventType(Enum):\n    POINT_LEFT = 0\n    POINT_RIGHT = 1\n    INTERSECTION = 2\nclass Event:\n    \"\"\"\n    Event class.\n    \"\"\"\n    def __init__(self, point: Point, segments: list[Segment], type_: EventType) -> None:\n        self.point: Point = point",
+        "detail": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "documentation": {}
+    },
+    {
+        "label": "Event",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "description": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "peekOfCode": "class Event:\n    \"\"\"\n    Event class.\n    \"\"\"\n    def __init__(self, point: Point, segments: list[Segment], type_: EventType) -> None:\n        self.point: Point = point\n        self.type = type_\n        self.segments = segments\n        self.value = point.coordinate_x\n    def get_point_coordinate(self):",
+        "detail": "bentley_ottmann_api.bentley_ottmann.geometry",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.conf",
+        "description": "bentley_ottmann_api.conf",
+        "peekOfCode": "class Settings(BaseSettings):\n    \"\"\"\n    Settings for `Geometry api` project.\n    \"\"\"\n    db_user: str\n    db_password: str\n    db_name: str\n    db_port: str\n    db_host: str\n    database_uri: Optional[PostgresDsn] = None",
+        "detail": "bentley_ottmann_api.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "bentley_ottmann_api.conf",
+        "description": "bentley_ottmann_api.conf",
+        "peekOfCode": "settings = Settings()",
+        "detail": "bentley_ottmann_api.conf",
+        "documentation": {}
+    },
+    {
+        "label": "commit_and_refresh_model_instance",
+        "kind": 2,
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "peekOfCode": "def commit_and_refresh_model_instance(\n    session: Session, instance: Any, refresh: bool = True, commit: bool = True\n) -> Any:\n    \"\"\"\n    Function commits and refreshes model instance.\n    Args:\n        session: db session\n        instance: instance to save\n        refresh: refresh instance if `True` default: `True`\n        commit: if `True` data will be saved in the database",
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_query_result_without_nested",
+        "kind": 2,
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "peekOfCode": "def get_query_result_without_nested(\n    result: Union[tuple, list], many: bool = False\n) -> Any:\n    \"\"\"\n    Function parsed query result.\n    Args:\n        result: db query result\n        many: if `True` objects will be returned in the list otherwise\n              single object\n    Returns:",
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get",
+        "kind": 2,
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "peekOfCode": "def get(db: Session, model: Any, many: bool = False, **query_data: Any) -> Any:\n    \"\"\"\n    Function makes query without join.\n    Args:\n        db: session db\n        model: model class\n        query_data: query data\n        many: if `True` all objects in the database will be returned\n              otherwise one object will be returned\n    Returns:",
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "create",
+        "kind": 2,
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "peekOfCode": "def create(\n    db: Session,\n    model: Any,\n    refresh: bool = True,\n    commit: bool = True,\n    **model_data: Any,\n) -> Any:\n    \"\"\"\n    Function inserts new record to database.\n    Args:",
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_boards_by_name",
+        "kind": 2,
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "peekOfCode": "def get_boards_by_name(db: Session, name: str) -> Boards:\n    \"\"\"\n    Function returns boards by name.\n    Args:\n        db: database session\n        name: boards name\n    Returns:\n        board if exists otherwise None\n    \"\"\"\n    return get(db=db, model=Boards, name=name)",
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_boards",
+        "kind": 2,
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "peekOfCode": "def get_all_boards(db: Session) -> list[Boards]:\n    \"\"\"\n    Function returns all board.\n    Args:\n        db: database session\n    Returns:\n        all boards if exists otherwise empty list\n    \"\"\"\n    return get(db=db, model=Boards, many=True)\ndef create_board(db: Session, name: str) -> Boards:",
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "create_board",
+        "kind": 2,
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "peekOfCode": "def create_board(db: Session, name: str) -> Boards:\n    \"\"\"\n    Function creates board.\n    Args:\n        db: database session\n        name: board name\n    Returns:\n        new created instances\n    \"\"\"\n    return create(db=db, model=Boards, name=name)",
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "create_line_and_add_to_bord",
+        "kind": 2,
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "peekOfCode": "def create_line_and_add_to_bord(\n    db: Session, point_x: list[float], point_y: list[float], board: Boards\n) -> Lines:\n    \"\"\"\n    Function creates new line and adds its to board.\n    Args:\n        db: database sessions\n        point_x: coordinate point x\n        point_y: coordinate point y\n        board: board",
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "create_random_lines",
+        "kind": 2,
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "peekOfCode": "def create_random_lines(\n    db: Session, random_board_data: RandomBoard, board: Boards\n) -> None:\n    \"\"\"\n    Function creates random lines.\n    Args:\n        db: database session\n        random_board_data: random board data\n        board: board\n    Returns:",
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "delete_lines",
+        "kind": 2,
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "peekOfCode": "def delete_lines(db: Session, lines: list[LineOut]) -> None:\n    \"\"\"\n    Function deletes lines\n    Args:\n        db: database session\n        lines: lines\n    Returns:\n        `None`\n    \"\"\"\n    for line in lines:",
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "delete_boards",
+        "kind": 2,
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "peekOfCode": "def delete_boards(db: Session, board: Boards) -> None:\n    \"\"\"\n    Function deletes boards.\n    Args:\n        db: database session\n        board: board\n    Returns:\n        `None`\n    \"\"\"\n    delete_lines(lines=board.lines, db=db)",
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "draw_lines",
+        "kind": 2,
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "peekOfCode": "def draw_lines(lines: Iterable) -> plt:\n    \"\"\"\n    Function draw lines.\n    Args:\n        lines: lines to draw\n    Returns:\n        image\n    \"\"\"\n    plt.figure()\n    plt.title(\"Lines\")",
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_draw_response",
+        "kind": 2,
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "peekOfCode": "def get_draw_response(plt_image: plt) -> StreamingResponse:\n    \"\"\"\n    Method gets response from plt image.\n    Args:\n        plt_image: plt image\n    Returns:\n    \"\"\"\n    buf = BytesIO()\n    plt_image.savefig(buf, format=\"png\")\n    buf.seek(0)",
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "delete_old_intersection_points",
+        "kind": 2,
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "peekOfCode": "def delete_old_intersection_points(db: Session, board: Boards) -> None:\n    \"\"\"\n    Method deletes old intersection points.\n    Args:\n        db: db session\n        board: board\n    Returns:\n        `None`\n    \"\"\"\n    for point in board.bentley_ottmann_points:",
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "find_intersection_for_board",
+        "kind": 2,
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "peekOfCode": "def find_intersection_for_board(db: Session, board: Boards) -> None:\n    \"\"\"\n    Method finds all intersections point for board.\n    Args:\n        db: db session\n        board: board\n    Returns:\n        `None`\n    \"\"\"\n    delete_old_intersection_points(db=db, board=board)",
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "draw_lines_and_intersection_points",
+        "kind": 2,
+        "importPath": "bentley_ottmann_api.crud",
+        "description": "bentley_ottmann_api.crud",
+        "peekOfCode": "def draw_lines_and_intersection_points(board: Boards) -> plt:\n    \"\"\"\n    Method draws lines and intersection points.\n    Args:\n        board: board\n    Returns:\n        plt image\n    \"\"\"\n    plt = draw_lines(lines=(line.get_coordinates() for line in board.lines))\n    plt.title(\"Intersection Lines\")",
+        "detail": "bentley_ottmann_api.crud",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "bentley_ottmann_api.dependencies",
+        "description": "bentley_ottmann_api.dependencies",
+        "peekOfCode": "engine = create_engine(settings.database_uri, pool_pre_ping=True)\nMainSession = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nasync def get_db() -> AsyncGenerator:\n    \"\"\"\n    Dependence creates new session for db.\n    Returns:\n        new db session\n    \"\"\"\n    db = MainSession()\n    try:",
+        "detail": "bentley_ottmann_api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "MainSession",
+        "kind": 5,
+        "importPath": "bentley_ottmann_api.dependencies",
+        "description": "bentley_ottmann_api.dependencies",
+        "peekOfCode": "MainSession = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nasync def get_db() -> AsyncGenerator:\n    \"\"\"\n    Dependence creates new session for db.\n    Returns:\n        new db session\n    \"\"\"\n    db = MainSession()\n    try:\n        yield db",
+        "detail": "bentley_ottmann_api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_bord_or_http404",
+        "kind": 2,
+        "importPath": "bentley_ottmann_api.main",
+        "description": "bentley_ottmann_api.main",
+        "peekOfCode": "def get_bord_or_http404(db: Session, name: str) -> Boards:\n    \"\"\"\n    Function gets boards or raise HTTP exception 404.\n    Args:\n        db: database session\n        name: board name\n    Returns:\n        boards if exists\n    \"\"\"\n    if not (board := get_boards_by_name(db=db, name=name)):",
+        "detail": "bentley_ottmann_api.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "bentley_ottmann_api.main",
+        "description": "bentley_ottmann_api.main",
+        "peekOfCode": "app = FastAPI(title=\"ComputationalLineAPI\")\n@app.on_event(\"startup\")\nasync def startup_event() -> None:\n    boards_name = [\"initial_board01\", \"initial_board02\", \"initial_board03\"]\n    db = MainSession()\n    lines = {\n        \"initial_board01\": [\n            [(0.8, 6.1), (11.72, 9.32)],\n            [(6.84, 3.56), (15.06, 8.38)],\n            [(3.5, 8.17), (10.44, 4.08)],",
+        "detail": "bentley_ottmann_api.main",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.models",
+        "description": "bentley_ottmann_api.models",
+        "peekOfCode": "class Model:\n    \"\"\"\n    Base model for all models.\n    \"\"\"\n    id = Column(Integer, primary_key=True, autoincrement=True, index=True)\nboard_line_association = Table(\n    \"board_line_association\",\n    Model.metadata,\n    Column(\"line_id\", Integer, ForeignKey(\"lines.id\")),\n    Column(\"board_id\", Integer, ForeignKey(\"boards.id\")),",
+        "detail": "bentley_ottmann_api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Lines",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.models",
+        "description": "bentley_ottmann_api.models",
+        "peekOfCode": "class Lines(Model):\n    __tablename__ = \"lines\"\n    point_x = Column(postgresql.ARRAY(Float))\n    point_y = Column(postgresql.ARRAY(Float))\n    boards = relationship(\n        \"Boards\", secondary=board_line_association, back_populates=\"lines\"\n    )\n    def get_coordinates(self):\n        return [self.point_x, self.point_y]\nclass Boards(Model):",
+        "detail": "bentley_ottmann_api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Boards",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.models",
+        "description": "bentley_ottmann_api.models",
+        "peekOfCode": "class Boards(Model):\n    __tablename__ = \"boards\"\n    name = Column(String, unique=True)\n    lines = relationship(\n        \"Lines\", secondary=board_line_association, back_populates=\"boards\"\n    )\n    bentley_ottmann_points = relationship(\n        \"BentleyOttmannPoints\",\n        back_populates=\"board\",\n        cascade=\"all, delete\",",
+        "detail": "bentley_ottmann_api.models",
+        "documentation": {}
+    },
+    {
+        "label": "BentleyOttmannPoints",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.models",
+        "description": "bentley_ottmann_api.models",
+        "peekOfCode": "class BentleyOttmannPoints(Model):\n    __tablename__ = \"bentlet_ottmann_points\"\n    point = Column(postgresql.ARRAY(Float))\n    board_id = Column(Integer, ForeignKey(\"boards.id\", ondelete=\"CASCADE\"))\n    board = relationship(\"Boards\", back_populates=\"bentley_ottmann_points\")\n    name = Column(String)",
+        "detail": "bentley_ottmann_api.models",
+        "documentation": {}
+    },
+    {
+        "label": "board_line_association",
+        "kind": 5,
+        "importPath": "bentley_ottmann_api.models",
+        "description": "bentley_ottmann_api.models",
+        "peekOfCode": "board_line_association = Table(\n    \"board_line_association\",\n    Model.metadata,\n    Column(\"line_id\", Integer, ForeignKey(\"lines.id\")),\n    Column(\"board_id\", Integer, ForeignKey(\"boards.id\")),\n)\nclass Lines(Model):\n    __tablename__ = \"lines\"\n    point_x = Column(postgresql.ARRAY(Float))\n    point_y = Column(postgresql.ARRAY(Float))",
+        "detail": "bentley_ottmann_api.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseLine",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.schemas",
+        "description": "bentley_ottmann_api.schemas",
+        "peekOfCode": "class BaseLine(BaseModel):\n    point_x: list[float] = Field(..., min_items=2, max_items=2)\n    point_y: list[float] = Field(..., min_items=2, max_items=2)\nclass LineIn(BaseLine):\n    pass\nclass LineOut(BaseLine):\n    id: int\n    class Config:\n        orm_mode = True\nclass BaseBoard(BaseModel):",
+        "detail": "bentley_ottmann_api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "LineIn",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.schemas",
+        "description": "bentley_ottmann_api.schemas",
+        "peekOfCode": "class LineIn(BaseLine):\n    pass\nclass LineOut(BaseLine):\n    id: int\n    class Config:\n        orm_mode = True\nclass BaseBoard(BaseModel):\n    name: str\nclass BoardIn(BaseBoard):\n    pass",
+        "detail": "bentley_ottmann_api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "LineOut",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.schemas",
+        "description": "bentley_ottmann_api.schemas",
+        "peekOfCode": "class LineOut(BaseLine):\n    id: int\n    class Config:\n        orm_mode = True\nclass BaseBoard(BaseModel):\n    name: str\nclass BoardIn(BaseBoard):\n    pass\nclass BoardOut(BaseBoard):\n    lines: list[LineOut] = []",
+        "detail": "bentley_ottmann_api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BaseBoard",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.schemas",
+        "description": "bentley_ottmann_api.schemas",
+        "peekOfCode": "class BaseBoard(BaseModel):\n    name: str\nclass BoardIn(BaseBoard):\n    pass\nclass BoardOut(BaseBoard):\n    lines: list[LineOut] = []\n    class Config:\n        orm_mode = True\nclass BoardOutAll(BaseBoard):\n    class Config:",
+        "detail": "bentley_ottmann_api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BoardIn",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.schemas",
+        "description": "bentley_ottmann_api.schemas",
+        "peekOfCode": "class BoardIn(BaseBoard):\n    pass\nclass BoardOut(BaseBoard):\n    lines: list[LineOut] = []\n    class Config:\n        orm_mode = True\nclass BoardOutAll(BaseBoard):\n    class Config:\n        orm_mode = True\nclass RandomBoard(BaseModel):",
+        "detail": "bentley_ottmann_api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BoardOut",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.schemas",
+        "description": "bentley_ottmann_api.schemas",
+        "peekOfCode": "class BoardOut(BaseBoard):\n    lines: list[LineOut] = []\n    class Config:\n        orm_mode = True\nclass BoardOutAll(BaseBoard):\n    class Config:\n        orm_mode = True\nclass RandomBoard(BaseModel):\n    max_range_x: int = 10\n    min_range_x: int = 1",
+        "detail": "bentley_ottmann_api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BoardOutAll",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.schemas",
+        "description": "bentley_ottmann_api.schemas",
+        "peekOfCode": "class BoardOutAll(BaseBoard):\n    class Config:\n        orm_mode = True\nclass RandomBoard(BaseModel):\n    max_range_x: int = 10\n    min_range_x: int = 1\n    max_range_y: int = 3\n    min_range_y: int = 1\n    max_items: PositiveInt = 20\nclass Point(BaseBoard):",
+        "detail": "bentley_ottmann_api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "RandomBoard",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.schemas",
+        "description": "bentley_ottmann_api.schemas",
+        "peekOfCode": "class RandomBoard(BaseModel):\n    max_range_x: int = 10\n    min_range_x: int = 1\n    max_range_y: int = 3\n    min_range_y: int = 1\n    max_items: PositiveInt = 20\nclass Point(BaseBoard):\n    point: list[float] = Field(..., min_items=2, max_items=2)\n    name: str\n    class Config:",
+        "detail": "bentley_ottmann_api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Point",
+        "kind": 6,
+        "importPath": "bentley_ottmann_api.schemas",
+        "description": "bentley_ottmann_api.schemas",
+        "peekOfCode": "class Point(BaseBoard):\n    point: list[float] = Field(..., min_items=2, max_items=2)\n    name: str\n    class Config:\n        orm_mode = True",
+        "detail": "bentley_ottmann_api.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "project",
+        "kind": 5,
+        "importPath": "docs.conf",
+        "description": "docs.conf",
+        "peekOfCode": "project = \"bentley-ottmann-api\"\ncopyright = \"2021, trazola\"\nauthor = \"trazola\"\n# The full version, including alpha/beta/rc tags\nrelease = \"0.1.0\"\nextensions = [\"sphinx.ext.autodoc\"]\n# -- General configuration ---------------------------------------------------\n# Add any Sphinx extension module names here, as strings. They can be\n# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom\n# ones.",
+        "detail": "docs.conf",
+        "documentation": {}
+    },
+    {
+        "label": "copyright",
+        "kind": 5,
+        "importPath": "docs.conf",
+        "description": "docs.conf",
+        "peekOfCode": "copyright = \"2021, trazola\"\nauthor = \"trazola\"\n# The full version, including alpha/beta/rc tags\nrelease = \"0.1.0\"\nextensions = [\"sphinx.ext.autodoc\"]\n# -- General configuration ---------------------------------------------------\n# Add any Sphinx extension module names here, as strings. They can be\n# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom\n# ones.\n# Add any paths that contain templates here, relative to this directory.",
+        "detail": "docs.conf",
+        "documentation": {}
+    },
+    {
+        "label": "author",
+        "kind": 5,
+        "importPath": "docs.conf",
+        "description": "docs.conf",
+        "peekOfCode": "author = \"trazola\"\n# The full version, including alpha/beta/rc tags\nrelease = \"0.1.0\"\nextensions = [\"sphinx.ext.autodoc\"]\n# -- General configuration ---------------------------------------------------\n# Add any Sphinx extension module names here, as strings. They can be\n# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom\n# ones.\n# Add any paths that contain templates here, relative to this directory.\ntemplates_path = [\"_templates\"]",
+        "detail": "docs.conf",
+        "documentation": {}
+    },
+    {
+        "label": "release",
+        "kind": 5,
+        "importPath": "docs.conf",
+        "description": "docs.conf",
+        "peekOfCode": "release = \"0.1.0\"\nextensions = [\"sphinx.ext.autodoc\"]\n# -- General configuration ---------------------------------------------------\n# Add any Sphinx extension module names here, as strings. They can be\n# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom\n# ones.\n# Add any paths that contain templates here, relative to this directory.\ntemplates_path = [\"_templates\"]\n# List of patterns, relative to source directory, that match files and\n# directories to ignore when looking for source files.",
+        "detail": "docs.conf",
+        "documentation": {}
+    },
+    {
+        "label": "extensions",
+        "kind": 5,
+        "importPath": "docs.conf",
+        "description": "docs.conf",
+        "peekOfCode": "extensions = [\"sphinx.ext.autodoc\"]\n# -- General configuration ---------------------------------------------------\n# Add any Sphinx extension module names here, as strings. They can be\n# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom\n# ones.\n# Add any paths that contain templates here, relative to this directory.\ntemplates_path = [\"_templates\"]\n# List of patterns, relative to source directory, that match files and\n# directories to ignore when looking for source files.\n# This pattern also affects html_static_path and html_extra_path.",
+        "detail": "docs.conf",
+        "documentation": {}
+    },
+    {
+        "label": "templates_path",
+        "kind": 5,
+        "importPath": "docs.conf",
+        "description": "docs.conf",
+        "peekOfCode": "templates_path = [\"_templates\"]\n# List of patterns, relative to source directory, that match files and\n# directories to ignore when looking for source files.\n# This pattern also affects html_static_path and html_extra_path.\nexclude_patterns = [\"_build\", \"Thumbs.db\", \".DS_Store\"]\n# -- Options for HTML output -------------------------------------------------\n# The theme to use for HTML and HTML Help pages.  See the documentation for\n# a list of builtin themes.\n#\nhtml_theme = \"alabaster\"",
+        "detail": "docs.conf",
+        "documentation": {}
+    },
+    {
+        "label": "exclude_patterns",
+        "kind": 5,
+        "importPath": "docs.conf",
+        "description": "docs.conf",
+        "peekOfCode": "exclude_patterns = [\"_build\", \"Thumbs.db\", \".DS_Store\"]\n# -- Options for HTML output -------------------------------------------------\n# The theme to use for HTML and HTML Help pages.  See the documentation for\n# a list of builtin themes.\n#\nhtml_theme = \"alabaster\"\n# Add any paths that contain custom static files (such as style sheets) here,\n# relative to this directory. They are copied after the builtin static files,\n# so a file named \"default.css\" will overwrite the builtin \"default.css\".\nhtml_static_path = [\"_static\"]",
+        "detail": "docs.conf",
+        "documentation": {}
+    },
+    {
+        "label": "html_theme",
+        "kind": 5,
+        "importPath": "docs.conf",
+        "description": "docs.conf",
+        "peekOfCode": "html_theme = \"alabaster\"\n# Add any paths that contain custom static files (such as style sheets) here,\n# relative to this directory. They are copied after the builtin static files,\n# so a file named \"default.css\" will overwrite the builtin \"default.css\".\nhtml_static_path = [\"_static\"]",
+        "detail": "docs.conf",
+        "documentation": {}
+    },
+    {
+        "label": "html_static_path",
+        "kind": 5,
+        "importPath": "docs.conf",
+        "description": "docs.conf",
+        "peekOfCode": "html_static_path = [\"_static\"]",
+        "detail": "docs.conf",
+        "documentation": {}
+    },
+    {
+        "label": "test_bentyle_ottmann",
+        "kind": 2,
+        "importPath": "tests.test_bentley_otmann",
+        "description": "tests.test_bentley_otmann",
+        "peekOfCode": "def test_bentyle_ottmann(lines, output):\n    assert find_intersections(lines=lines) == output",
+        "detail": "tests.test_bentley_otmann",
+        "documentation": {}
+    }
+]
